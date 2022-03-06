@@ -1,3 +1,3 @@
 <?php
-print "Hello, World! change is coming "\n";
+print "I'm about to learn PHP!";
 ?>
